@@ -1,5 +1,8 @@
 # A Writeup of Project 2
-## Prblem
+```
+Contributor: Cheng-Kai Wang, Ryan Wang, Yung-Peng Hsu
+```
+## Problem
 [Link](https://staff.csie.ncu.edu.tw/hsufh/COURSES/FALL2021/linux_project_2.html)
 ### Kernel Code
 ```c=
